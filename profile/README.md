@@ -1,7 +1,7 @@
 # 최고의 서버 개발자가 되어보자고~🪄
 
 ## ✅ 참여 방법
-1. 나만의 Repository를 생성한다. -> Repo명 : "닉네임 + Spring-PetClinic-Study"
+1. 나만의 Repository를 생성한다. -> Repo명 : "닉네임 + -Spring-PetClinic-Study"
 2. 생성한 저장소를 fork 한다.
 3. 생성한 원격 저장소와 원본 저장소를 remote 한다.
 4. 생성된 원격 저장소에 개발을 시작한다. (이때 개발은 branch 별로 개발을 시작한다.)
